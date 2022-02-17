@@ -1,0 +1,4 @@
+10.11.14.21 ansible_connection=ssh ansible_port=22 ansible_user=root ansible_password=toortoor
+10.11.14.22 ansible_connection=ssh ansible_port=22 ansible_user=root ansible_password=toortoor 
+10.11.14.23 ansbile_connection=ssh ansible_port=22 ansible_user=root ansible_password=toortoor
+
